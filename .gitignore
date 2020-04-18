@@ -24,3 +24,8 @@ _testmain.go
 *.prof
 
 coverage.out
+coverage.txt
+go.sum
+
+# Exclude intellij IDE folders
+.idea/*
